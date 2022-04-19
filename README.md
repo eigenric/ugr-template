@@ -1,6 +1,6 @@
 # Plantilla Latex UGR
 
-Plantilla basada en [University of Malta dissertation tempplate](https://github.com/jp-um/university_of_malta_LaTeX_dissertation_template) adaptada al ámbito
+Plantilla basada en [University of Malta dissertation template](https://github.com/jp-um/university_of_malta_LaTeX_dissertation_template) adaptada al ámbito
 de la Universidad de Granada.
 
 # Visualización
